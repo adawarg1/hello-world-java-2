@@ -10,7 +10,7 @@ public class HelloWorldPing
     {
         //System.out.println( "Hello World!" );
         for(int i = 0 ; i < 100; i++){
-			System.out.println("Hello World Ping " + i );
+			System.out.println("Adawar World Ping " + i );
 			Thread.sleep(1000);
 		}
     }
